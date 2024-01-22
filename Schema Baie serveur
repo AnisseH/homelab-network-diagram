@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T14:36:12.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BgKNb1C3QYdrBWBNKYPQ" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-22T15:01:21.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I_2utU-monoHC_dMAWLy" version="22.1.21" type="github" pages="2">
   <diagram name="Page-1" id="r4Gkxf78pHdJRvCdI5IW">
     <mxGraphModel dx="5238" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1449,7 +1449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S7yvVeKJGVcnwxpWTW9I" name="Page-2">
-    <mxGraphModel dx="4498" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3747" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1686,7 +1686,7 @@
           <mxGeometry x="-3133" y="65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jiyNHdjFHv9EXxrFZquw-215" value="" style="whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;fontFamily=Tahoma;container=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3210" y="645.85" width="700" height="387.98" as="geometry" />
+          <mxGeometry x="-3340" y="645.85" width="830" height="404.15" as="geometry" />
         </mxCell>
         <mxCell id="jiyNHdjFHv9EXxrFZquw-216" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.smb_business;container=0;" parent="1" vertex="1">
           <mxGeometry x="-2682.27" y="584.5999999999999" width="110" height="82.5" as="geometry" />
@@ -1770,17 +1770,17 @@
           <mxGeometry x="-3200" y="808.07" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jiyNHdjFHv9EXxrFZquw-249" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.veeam_availability_suite;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-3263" y="964.4999999999999" width="34" height="34" as="geometry" />
+          <mxGeometry x="-3153" y="950.0399999999998" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="jiyNHdjFHv9EXxrFZquw-250" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontColor=#006600;strokeColor=#D88B3A;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-3064.6" y="984.3600000000001" as="sourcePoint" />
-            <mxPoint x="-3216.6" y="983.9462721893492" as="targetPoint" />
+            <mxPoint x="-3110" y="984" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jiyNHdjFHv9EXxrFZquw-251" value="Veeam&lt;br&gt;Backup" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontFamily=Tahoma;fontSize=10;spacing=-2;spacingTop=-6;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3273" y="1003.95" width="50" height="20" as="geometry" />
+          <mxGeometry x="-3163" y="989.49" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jiyNHdjFHv9EXxrFZquw-252" value="" style="whiteSpace=wrap;html=1;container=0;rounded=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="-2833.79" y="680" width="137.27" height="312.62" as="geometry" />
@@ -2346,6 +2346,9 @@
             <mxPoint x="-2038.17" y="410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UwsipWQJU7c5YvdDzrUX-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.server;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3322" y="919.71" width="17.86" height="30.29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
