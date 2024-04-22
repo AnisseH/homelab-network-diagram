@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:21:40.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wX2hKa05tJ46WSGryP6c" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-22T12:21:04.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Nkfa2E8xdlYQxfPRrxif" version="22.1.21" type="github" pages="3">
   <diagram name="Page-1" id="r4Gkxf78pHdJRvCdI5IW">
     <mxGraphModel dx="5300" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3063,6 +3063,9 @@
             <mxPoint x="-1230" y="989.6999999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ksy-iDTga2AKpFytaAxQ-31" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.esxi_host;" vertex="1" parent="1">
+          <mxGeometry x="-1049.9999999999998" y="876.76" width="82" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
