@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T08:33:11.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rdzVDaOoWPHQ6r6g1dbz" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13" pages="3">
   <diagram name="Page-1" id="r4Gkxf78pHdJRvCdI5IW">
-    <mxGraphModel dx="5300" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5239" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1444,6 +1444,39 @@
         </mxCell>
         <mxCell id="e4grsYjeve_WP6ChYtZ_-462" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;arcSize=8;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3328" y="-175.3" width="58" height="57.8" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-12" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#333333;points=[];verticalAlign=middle;stackBorder=10;stackSpacing=-10;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="-4020" y="-790" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-13" value="  Dimanche" style="shape=step;perimeter=stepPerimeter;strokeColor=#82b366;fontFamily=Helvetica;fontSize=14;fillColor=#d5e8d4;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-12">
+          <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-14" value="Lundi" style="shape=step;perimeter=stepPerimeter;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-12">
+          <mxGeometry x="100" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-15" value="Mardi" style="shape=step;perimeter=stepPerimeter;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-12">
+          <mxGeometry x="190" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-16" value="Mercredi" style="shape=step;perimeter=stepPerimeter;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-12">
+          <mxGeometry x="280" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-17" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;strokeColor=none;fontFamily=Helvetica;fontSize=14;points=[];verticalAlign=middle;stackBorder=10;stackSpacing=-10;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="-3660" y="-790" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-18" value="Jeudi" style="shape=step;perimeter=stepPerimeter;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-17">
+          <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-19" value="Vendredi" style="shape=step;perimeter=stepPerimeter;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-17">
+          <mxGeometry x="100" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-20" value="Samedi" style="shape=step;perimeter=stepPerimeter;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="j4YrFRaqxG0HC0qI0Bnv-17">
+          <mxGeometry x="190" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.veeam_incremental_backup;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3780" y="-900" width="60.00000000000001" height="83.57" as="geometry" />
+        </mxCell>
+        <mxCell id="j4YrFRaqxG0HC0qI0Bnv-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.veeam_full_backup;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3839" y="-900" width="60.00000000000001" height="83.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
