@@ -1541,11 +1541,11 @@
         <mxCell id="j4YrFRaqxG0HC0qI0Bnv-127" value="1 an" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.calendar;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-3800" y="-518.21" width="40.00000000000001" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EKgwbEoVMomaFA2Myfpx-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;" vertex="1" parent="1">
-          <mxGeometry x="-2127" y="-992.46" width="58" height="56" as="geometry" />
+        <mxCell id="EKgwbEoVMomaFA2Myfpx-3" value="ASR" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;" vertex="1" parent="1">
+          <mxGeometry x="-2130" y="-1008.46" width="58" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="EKgwbEoVMomaFA2Myfpx-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-1/256/buildings-light-128.png" vertex="1" parent="1">
-          <mxGeometry x="-1940" y="-1017.5" width="90" height="90" as="geometry" />
+        <mxCell id="EKgwbEoVMomaFA2Myfpx-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-light-vol-1/256/buildings-light-128.png;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="-1033.75" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
